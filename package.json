@@ -23,8 +23,8 @@
   "repository": "github:jxnblk/styled-system",
   "author": "Brent Jackson",
   "license": "MIT",
-  "dependencies": {
-    "styled-system": "^3.0.1"
+  "peerDependencies": {
+    "styled-components": "3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
